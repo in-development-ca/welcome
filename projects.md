@@ -1,6 +1,6 @@
 # projects
 
-This repository contains a list of projects that may be in need of a maintainer groupd by language.
+This repository contains a list of projects that may be in need of a maintainer grouped by language.
 Projects descriptions should give a brief overview of the project, and reasons for why it may be of interest.
 
 ## Clojure
